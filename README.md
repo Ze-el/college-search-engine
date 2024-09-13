@@ -14,4 +14,3 @@ on provided criteris.
 - Frontend: Tkinter based layout for displaying college information and user interactions
 - Backend: Logic for GPA calculation and handling user inputs
 - Graphics: Adobe Illustrator used for custom visuals and enhancing the UI design
-- 
